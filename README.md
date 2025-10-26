@@ -79,7 +79,7 @@ Give credit here.
 
 
 ## Contact
-Created by [Parth Purohit] - feel free to contact me!
+Created by [Parth Purohit](https://www.example.com) - feel free to contact me!
 
 
 <!-- Optional -->
